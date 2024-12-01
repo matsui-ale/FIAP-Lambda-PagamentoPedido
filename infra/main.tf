@@ -67,6 +67,6 @@ resource "aws_lambda_function" "pedido_function" {
   timeout       = 30
   handler       = "FIAP.TechChallenge.LambdaPagamentoPedido::FIAP.TechChallenge.LambdaPagamentoPedido.Function::FunctionHandler"
   # Código armazenado no S3
-  s3_bucket = "code-lambdas-functions"
+  s3_bucket = "code-lambdas-functions-pagamentopedido"
   s3_key    = "lambda_pagamento_pedido.zip"
 }
