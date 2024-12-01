@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/FIAP.TechChallenge.LambdaPedido.Tests/obj/Debug/net8.0/FIAP.TechChallenge.LambdaPedido.Tests.dll._asi_refs
+/src/FIAP.TechChallenge.LambdaPedido.Domain/obj/FIAP.TechChallenge.LambdaPedido.Domain.csproj.nuget.g.props
+/src/FIAP.TechChallenge.LambdaPedido.Domain/obj/Release/net8.0/FIAP.TechChallenge.LambdaPedido.Domain.csproj.AssemblyReference.cache
+/src/FIAP.TechChallenge.LambdaPedido.Infra/obj/FIAP.TechChallenge.LambdaPedido.Infra.csproj.nuget.g.props
+/src/FIAP.TechChallenge.LambdaPedido.Infra/obj/project.assets.json
+/src/FIAP.TechChallenge.LambdaPedido.Application/obj/FIAP.TechChallenge.LambdaPedido.Application.csproj.nuget.g.props
+/src/FIAP.TechChallenge.LambdaPedido.Application/obj/project.assets.json
+/src/FIAP.TechChallenge.LambdaPedido/obj/Release/net8.0/FIAP.TechChallenge.LambdaPedido.API.assets.cache
+/src/FIAP.TechChallenge.LambdaPedido/obj/Debug/net8.0/FIAP.TechChallenge.LambdaPedido.API.dll._asi_refs
+/src/FIAP.TechChallenge.LambdaPedido/obj/Release/net8.0/FIAP.TechChallenge.LambdaPedido.API.csproj.AssemblyReference.cache
+/src/FIAP.TechChallenge.LambdaPedido/obj/FIAP.TechChallenge.LambdaPedido.API.csproj.nuget.g.props
